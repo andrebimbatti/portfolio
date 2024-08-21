@@ -1,4 +1,4 @@
-<h1>Portifólio de Programação em Python</h1>
+<h1>Portfólio de Programação em Python</h1>
 
 ## Tecnologias Utilizadas
 <div>
